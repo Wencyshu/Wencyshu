@@ -49,12 +49,12 @@ Wency.createDay();
 
 ## 🧮 Stats
 <a href="https://github.com/Wency/Wency">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wency&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="Wency GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wencyshu&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="Wencyshu GitHub Stats" />
 </a>
 
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wency&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wencyshu&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
